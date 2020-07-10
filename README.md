@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, my name is Cameron Baney
+I am a front-end engineer focusing on JavaScript, Vue, Sass and semantic HTML. My experience in design and UX helps create quality user friendly websites and software.
 
-<!--
-**cameronbaney/cameronbaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Lead Engineer at [Blackfynn](https://blackfynn.com), focusing on the front-end. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [SPARC Portal](https://github.com/nih-sparc/sparc-app) via [Blackfynn](https://blackfynn.com)
+- 🌱 I’m currently learning: 
+  - [GraphQL](https://graphql.org/)
+  - [Apollo GraphQL](https://www.apollographql.com/)
+  - [TypeScript](https://www.typescriptlang.org/)
+  - [React](https://reactjs.org/)
+- 💬 Ask me about JavaScript, Vue, CSS, anything front-end
+- 📫 How to reach me: [Twitter](https://twitter.com/cameronbaney)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I rode a turkey when I was a kid
