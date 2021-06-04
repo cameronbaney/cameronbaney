@@ -1,9 +1,8 @@
 # Hi, my name is Cameron Baney
 I am a front-end engineer focusing on JavaScript, Vue, Sass and semantic HTML. My experience in design and UX helps create quality user friendly websites and software.
 
-I am Lead Engineer at [Blackfynn](https://blackfynn.com), focusing on the front-end. 
+I am Developer on the Messaging team at [Shopify](https://shopify.engineering), focusing on the front-end. 
 
-- 🔭 I’m currently working on the [Blackfynn Data Management](https://www.blackfynn.com/platform/) app and [SPARC Portal](https://github.com/nih-sparc/sparc-app) via [Blackfynn](https://blackfynn.com)
 - 🌱 I’m currently learning: 
   - [GraphQL](https://graphql.org/)
   - [Apollo GraphQL](https://www.apollographql.com/)
