@@ -1,7 +1,7 @@
 # Hi, my name is Cameron Baney
 I am a front-end engineer focusing on JavaScript, React, Sass and semantic HTML. My experience in design and UX helps create quality user friendly websites and software.
 
-I am Developer on the Messaging team at [Shopify](https://shopify.engineering), focusing on the front-end. 
+I am Developer on the Messaging team at [Shopify](https://shopify.engineering), focusing on the frontend. 
 
 - 🌱 I’m currently learning: 
   - [Apollo GraphQL](https://www.apollographql.com/)
