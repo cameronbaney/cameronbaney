@@ -1,5 +1,5 @@
 # Hi, my name is Cameron Baney
-Senior Frontend Engineer with over 10 years experience, specializing in JavaScript/TypeScript, React, and Vue.. My experience in design and UX helps create quality user friendly websites and software.
+Senior Frontend Engineer with over 10 years experience, specializing in JavaScript/TypeScript, React, and Vue. My experience in design and UX helps create quality user friendly websites and software.
 
 I am Developer on the Checkout Extensibility team at [Shopify](https://shopify.engineering), focusing on the frontend. 
 
